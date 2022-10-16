@@ -41,6 +41,10 @@ body {
     margin-left: 25px;
 }
 
+.body {
+    background-color: #d9dcd6;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
