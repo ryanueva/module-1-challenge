@@ -19,5 +19,3 @@ Removed unnecessary CSS classes
 Consolidated redundant CSS selectors and properties
 Re-ordered CSS to follow HTML structure
 Added alt attributes to images
-
-## Website Link
